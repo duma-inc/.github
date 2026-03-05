@@ -1,5 +1,3 @@
-# .github
-
 # Duma
 
 Duma is a learning platform designed for accelerated education.
